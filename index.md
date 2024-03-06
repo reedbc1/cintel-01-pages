@@ -10,7 +10,7 @@ My first website using Markdown and GitHub Pages.
 
 ## Images
 
-Images look like links except with an exclamation directly in front
+Image of reactive Shiny application found in the Playground:
 
 ![My Shiny Image](https://github.com/reedbc1/cintel-01-pages/blob/13eb13e650de20a453e333c8b68e40b15edb9d1e/shiny_reactive_example.JPG)
 
