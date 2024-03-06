@@ -2,7 +2,7 @@
 
 My first website using Markdown and GitHub Pages.
 
-## Links (Two hashes is a second level heading)
+## Links
 
 - Tutorial: (https://shiny.posit.co/py/docs/overview.html)
 - Playground examples: (https://shinylive.io/py/examples/)
