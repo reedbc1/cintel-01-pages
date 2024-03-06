@@ -1,10 +1,12 @@
-# My Website Title 
+# Learning Shiny Express
 
 My first website using Markdown and GitHub Pages.
 
 ## Links (Two hashes is a second level heading)
 
-Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
+Tutorial: (https://shiny.posit.co/py/docs/overview.html)
+Playground examples: (https://shinylive.io/py/examples/)
+Helpful AI assistant for learning: (https://chat.openai.com/)
 
 ## Images
 
